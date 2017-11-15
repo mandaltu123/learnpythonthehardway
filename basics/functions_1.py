@@ -33,7 +33,7 @@ def sort_sentence(sentence):
     return sort_words(words)
 
 
-sentence = "I had a bad day"
+sentence = "I had a bad day" # This is a daniel powter song, I did not really have a bad day infact I had a pretty good one
 sort_sentence(sentence)
 
 
