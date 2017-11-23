@@ -22,7 +22,7 @@ for key in keys:
 # item() function in dictionary
 items = dic.items()
 for item, data in dic.items():
-    print("the key is {} and the value is {}".format(item, dic.get(item)))
+    print("the key is {} and the value is {}".format(item, data))
 
 
 # adding a new item to dictionary
